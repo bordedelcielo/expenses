@@ -1,0 +1,1 @@
+An Excel spreadsheet to track a hypothetical consumer's spending.
